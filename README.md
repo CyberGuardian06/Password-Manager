@@ -1,34 +1,30 @@
-Sure! Here's a professional and beginner-friendly **GitHub `README.md`** for your **Java Password Manager**:
-
----
-
 ```markdown
 # 🔐 Java Password Manager
 
 A simple, secure, and interactive Password Manager built with Java that allows you to **add**, **view**, **delete**, and **search** credentials securely using **AES encryption**.
 
----
+
 
 ## ✨ Features
 
-- ✅ Add and store credentials securely
-- 🔍 Search by website or username
-- 🗑️ Delete credentials by index
-- 👁️ View all saved credentials
-- 🔒 AES-128 encryption for passwords
-- 🔐 Password input masking for security
-- 📄 Data stored in a local file (`credentials.txt`)
+- ✅ Add and store credentials securely  
+- 🔍 Search by website or username  
+- 🗑️ Delete credentials by index  
+- 👁️ View all saved credentials  
+- 🔒 AES-128 encryption for passwords  
+- 🔐 Password input masking for security  
+- 📄 Data stored in a local file (`credentials.txt`)  
 
----
+
 
 ## 🧰 Technologies Used
 
-- Java (JDK 8 or higher)
-- AES Encryption (`javax.crypto`)
-- File I/O
-- Terminal/Console-based UI
+- Java (JDK 8 or higher)  
+- AES Encryption (`javax.crypto`)  
+- File I/O  
+- Terminal/Console-based UI  
 
----
+
 
 ## 🚀 Getting Started
 
@@ -51,13 +47,13 @@ javac PasswordManager.java
 java PasswordManager
 ```
 
----
+
 
 ## 🖥️ Screenshots
 
 > Coming Soon! (You can add terminal screenshots of usage here)
 
----
+
 
 ## 📂 File Structure
 
@@ -66,38 +62,37 @@ java PasswordManager
 ├── credentials.txt         # Stores encrypted credentials
 ```
 
----
+
 
 ## ⚠️ Security Notice
 
-- Passwords are encrypted using AES-128, but stored locally.
-- Do **NOT** use this for real passwords on production systems.
-- Best used for learning purposes and small personal projects.
+- Passwords are encrypted using AES-128, but stored locally.  
+- Do **NOT** use this for real passwords on production systems.  
+- Best used for learning purposes and small personal projects.  
 
----
+
 
 ## 📌 Future Improvements
 
-- 🌐 GUI version using JavaFX/Swing
-- 🔑 Password generator
-- 🗃️ Export/import credentials
-- 🧪 Unit tests
+- 🌐 GUI version using JavaFX/Swing  
+- 🔑 Password generator  
+- 🗃️ Export/import credentials  
+- 🧪 Unit tests  
 
----
+
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
----
+
 
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
 
 ## 📧 Contact
 
 Created by Paulson – feel free to reach out!
-
+```
